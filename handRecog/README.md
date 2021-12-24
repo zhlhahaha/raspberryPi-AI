@@ -1,7 +1,7 @@
 ## hand recognition on raspberry pi 4B 64 bit
  Code is refered from https://blog.csdn.net/weixin_45930948/article/details/115444916
  
- # pre-requirement
+ ### pre-requirement
  1. camera has enabled on raspberry pi
  2. docker has installed
  e.g.
