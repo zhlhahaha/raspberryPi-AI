@@ -9,8 +9,8 @@ docker build -t zhlhahaha/hand_recog:aarch64 .
 docker run --rm --network=host --privileged zhlhahaha/hand_recog:aarch64
 ```
  Then you can open web brower to see the camera captured hand regesture.
-![](https://github.com/zhlhahaha/raspberryPi-AI/handRecog/raw/main/images/handRecog1.PNG) 
-![](https://github.com/zhlhahaha/raspberryPi-AI/handRecog/raw/main/images/handRecog2.PNG) 
+![](./images/handRecog1.PNG) 
+![](./images/handRecog2.PNG) 
 
 
 ## You can also use this to trigger a edge device by sending mqtt message
